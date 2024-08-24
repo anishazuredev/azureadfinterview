@@ -1,2 +1,2 @@
 # azureadfinterview
-Consist Azure ADF interview Questions and Its Solution
+This repository contains a comprehensive collection of interview questions focused on Azure Data Factory (ADF). It covers a range of topics including data integration, ETL processes, pipeline creation, data transformation, and ADF best practices. Whether you're preparing for an interview or looking to test your knowledge, these questions are designed to help you get a deeper understanding of Azure Data Factory and its capabilities.
